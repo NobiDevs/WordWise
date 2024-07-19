@@ -1,14 +1,14 @@
 {
     "manifest_version": 3,
-    "name": "Cue",
+    "name": "WordWise",
     "description": "an extension to make browsing easier.",
     "version": "1.0",
     "action": {
-        "default_popup": "action/popup.html"
+        "default_popup": "actions/popup.html"
     },
 
     "icons": {
-        "128": "images/icon-128.png"
+        "128": "images/icon_128.png"
     },
 
     "background":{
