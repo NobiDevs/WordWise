@@ -4,7 +4,7 @@
     "description": "an extension to make browsing easier.",
     "version": "1.0",
     "action": {
-        "default_popup": "actions/popup.html"
+        "default_popup": "actions/index.html"
     },
 
     "icons": {
